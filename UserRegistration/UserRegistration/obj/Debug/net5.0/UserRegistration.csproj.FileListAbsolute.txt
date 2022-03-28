@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\bin\Debug\net5.0\UserRegistration.exe
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\bin\Debug\net5.0\UserRegistration.deps.json
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\bin\Debug\net5.0\UserRegistration.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\bin\Debug\net5.0\UserRegistration.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\bin\Debug\net5.0\UserRegistration.dll
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\bin\Debug\net5.0\UserRegistration.pdb
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\obj\Debug\net5.0\UserRegistration.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\obj\Debug\net5.0\UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\obj\Debug\net5.0\UserRegistration.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\obj\Debug\net5.0\UserRegistration.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\obj\Debug\net5.0\UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\obj\Debug\net5.0\UserRegistration.dll
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\obj\Debug\net5.0\refint\UserRegistration.dll
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\obj\Debug\net5.0\UserRegistration.pdb
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\obj\Debug\net5.0\UserRegistration.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Day 24\UserRegistration\UserRegistration\obj\Debug\net5.0\ref\UserRegistration.dll
